@@ -1,2 +1,2 @@
-# qu-n-l-b-n-i-n-tho-i
+# quản lý bán điện thoại
 đồ án của trường giao cho làm việc
